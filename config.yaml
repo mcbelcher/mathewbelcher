@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-baseURL: 'http://https://mathewbelcher.netlify.app'
-=======
-baseURL: http://example.org/
->>>>>>> 83371f9ca51c6828e74031c618432a5149e993e4
+baseURL: 'http://mathewbelcher.netlify.app'
 languageCode: en-us
 title: My New Hugo Site
 
